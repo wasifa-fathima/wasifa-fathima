@@ -1,5 +1,5 @@
  👋 Hi, I’m @wasifa-fathima
- 🌱 I’m currently learning web development.
+  I’m currently learning web development.
 
 <!---
 wasifa-fathima/wasifa-fathima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
